@@ -1,0 +1,9 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Learner Experiences with MOOCs and Open Online Learning
+description: |
+  <p class="lead"><a href="http://hybrid-pedagogy.github.io/LearnerExperiencesInMOOCs/"><i>Learner Experiences with MOOCs and Open Online Learning</i></a> is an e-book in which student authors describe and reflect upon their open online learning experiences. Edited by George Veletsianos.</p>
+
+---

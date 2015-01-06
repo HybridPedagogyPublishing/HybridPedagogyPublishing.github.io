@@ -1,0 +1,9 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: The Generative Literature Project
+description: |
+  <p class="lead"><a href="http://www.genlitproject.org"><i>The Generative Literature Project</i></a> is a Crowdsourced Gamified Digital Novel about a murder. The Project was created by Frederick Cope and Michelle Kassorla.</p>
+
+---
