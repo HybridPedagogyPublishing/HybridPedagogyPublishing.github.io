@@ -24,7 +24,7 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 [eBook as Ecosystem of Scholarly Communication](http://www.cplong.org/cplportfolio/dh2013sppp/), by Chris Long  
 [From Reading to Social Computing](http://dlsanthology.commons.mla.org/from-reading-to-social-computing/), by Alan Liu  
 
-#### Image credits
+## Image credits
 
 [Type & Write](https://www.flickr.com/photos/roberts87/4565751628), by [®DS](https://www.flickr.com/photos/roberts87/)  
 [Water pattern](https://www.flickr.com/photos/doug88888/5891638442/), by [@Doug88888](https://www.flickr.com/photos/doug88888/)  
