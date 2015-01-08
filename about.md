@@ -26,6 +26,7 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 
 #### Image credits
 
+[Type & Write](https://www.flickr.com/photos/roberts87/4565751628), by [®DS](https://www.flickr.com/photos/roberts87/)  
 [Water pattern](https://www.flickr.com/photos/doug88888/5891638442/), by [@Doug88888](https://www.flickr.com/photos/doug88888/)  
 [type rider](https://www.flickr.com/photos/freeside/2402898188), by [freeside510](https://www.flickr.com/photos/freeside/)  
 [notes of a rock song](https://www.flickr.com/photos/linhngan/3101950593/), by [Bùi Linh Ngân](https://www.flickr.com/photos/linhngan/)  
