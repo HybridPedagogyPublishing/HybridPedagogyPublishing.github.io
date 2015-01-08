@@ -23,3 +23,8 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 [#digped Storify: How to Think about Books](http://www.hybridpedagogy.com/announcements/digped-storify-think-books/), by Kris Shaffer  
 [eBook as Ecosystem of Scholarly Communication](http://www.cplong.org/cplportfolio/dh2013sppp/), by Chris Long  
 [From Reading to Social Computing](http://dlsanthology.commons.mla.org/from-reading-to-social-computing/), by Alan Liu  
+
+#### Image credits
+
+[Water pattern](https://www.flickr.com/photos/doug88888/5891638442/), by [@Doug88888](https://www.flickr.com/photos/doug88888/)  
+[Slicing through](https://www.flickr.com/photos/mtsofan/3849443997), by [MTSOfan](https://www.flickr.com/photos/mtsofan/)  
