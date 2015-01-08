@@ -1,6 +1,6 @@
 ---
 layout: default
-img: slicing.jpg
+img: typehack.jpg
 category: Services
 title: About Hybrid Pedagogy Publishing
 description: |
