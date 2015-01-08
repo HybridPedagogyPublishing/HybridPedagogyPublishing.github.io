@@ -1,6 +1,6 @@
 ---
 layout: default
-img: theopolis.png
+img: theopolis.jpg
 category: Services
 title: The Generative Literature Project
 description: |
