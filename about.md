@@ -4,7 +4,7 @@ title: Hybrid Pedagogy Publishing
 subTitle: open, social, hackable publishing
 ---
 
-<img src="/img/logo.jpg" style="width:200px; float:right" />
+<img src="/img/logo.jpg" style="width:240px; float:right; padding:24px" />
 Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action—works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
 
 Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
