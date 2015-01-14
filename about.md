@@ -17,7 +17,7 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 ### On Hybrid Pedagogy Publishing
 
 [The Critical Textbook](http://www.hybridpedagogy.com/journal/critical-textbook/), by Kris Shaffer  
-[Hack This Book: Announcing *Open Music Theory*](http://www.hybridpedagogy.com/announcements/hack-book-announcing-open-music-theory/), by Kris Shaffer  
+[Hybridity and Form in Generative Literature: A #GenLit Discussion](http://www.hybridpedagogy.com/announcements/hybridity-form-generative-literature-genlit-discussion/), by Michelle Kassorla and Robin Wharton  
 [Humanists and our Books, Pt. 1: The Work of Humanism](http://www.hybridpedagogy.com/journal/humanists-books-pt-1-work-humanism/), by Robin Wharton  
 [Humanists and our Books, Pt. 2: Becoming Books](http://www.hybridpedagogy.com/journal/humanists-books-pt-2-becoming-books/), by Robin Wharton  
 [Martian Codicology, or How to Think About Books: A #digped Discussion](http://www.hybridpedagogy.com/announcements/martian-codicology-think-books-digped-discussion/), by Kris Shaffer & Robin Wharton  
