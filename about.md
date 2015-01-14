@@ -4,6 +4,7 @@ title: Hybrid Pedagogy Publishing
 subTitle: open, social, hackable publishing
 ---
 
+<img src="/img/logo.jpg" float="right" style="width:300px" />
 Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action—works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
 
 Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
@@ -16,7 +17,6 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 
 ### On Hybrid Pedagogy Publishing
 
-<img src="/img/logo.jpg" float="right" style="width:300px" />
 [The Critical Textbook](http://www.hybridpedagogy.com/journal/critical-textbook/), by Kris Shaffer  
 [Hybridity and Form in Generative Literature: A #GenLit Discussion](http://www.hybridpedagogy.com/announcements/hybridity-form-generative-literature-genlit-discussion/), by Michelle Kassorla and Robin Wharton  
 [Humanists and our Books, Pt. 1: The Work of Humanism](http://www.hybridpedagogy.com/journal/humanists-books-pt-1-work-humanism/), by Robin Wharton  
