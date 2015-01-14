@@ -16,7 +16,6 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 
 ### On Hybrid Pedagogy Publishing
 
-[About *Open Music Theory*](http://openmusictheory.com/about.html), by Kris Shaffer  
 [The Critical Textbook](http://www.hybridpedagogy.com/journal/critical-textbook/), by Kris Shaffer  
 [Hack This Book: Announcing *Open Music Theory*](http://www.hybridpedagogy.com/announcements/hack-book-announcing-open-music-theory/), by Kris Shaffer  
 [Humanists and our Books, Pt. 1: The Work of Humanism](http://www.hybridpedagogy.com/journal/humanists-books-pt-1-work-humanism/), by Robin Wharton  
@@ -31,7 +30,7 @@ For more information on Hybrid Pedagogy Publishing as this project develops, con
 [The Four Noble Virtues of Digital Media Citation](http://www.hybridpedagogy.com/journal/the-four-noble-virtues-of-digital-media-citation/), by Pete Rorabaugh and Jesse Stommel  
 [From Reading to Social Computing](http://dlsanthology.commons.mla.org/from-reading-to-social-computing/), by Alan Liu  
 [Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12172434.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture), ed. by Daniel J. Cohen and Tom Scheinfeldt  
-[Hybrid Pedagogy, Digital Humanities, and the Future of Academic Publishing](http://www.hybridpedagogy.com/journal/hybrid-pedagogy-digital-humanities-future-academic-publishing/)  
+[Hybrid Pedagogy, Digital Humanities, and the Future of Academic Publishing](http://www.hybridpedagogy.com/journal/hybrid-pedagogy-digital-humanities-future-academic-publishing/), by Sean Michael Morris and Jesse Stommel  
 [New Media Conventions and Digital Citation: a #digped Discussion](http://www.hybridpedagogy.com/announcements/new-media-conventions-and-digital-citation-a-digped-discussion/), by Jesse Stommel and Robin Wharton  
 [Open-Source Scholarship](http://www.hybridpedagogy.com/journal/open-source-scholarship/), by Kris Shaffer  
 [Pedagogy as Publishing](http://www.hybridpedagogy.com/journal/pedagogy-as-publishing/), by Charlotte Frost  
