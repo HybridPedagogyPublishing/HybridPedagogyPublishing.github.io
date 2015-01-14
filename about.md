@@ -9,6 +9,12 @@ Hybrid Pedagogy Publishing seeks to encourage active public discourse by publish
 
 Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
 
+<br/>
+
+<blockquote class="twitter-tweet" lang="en"><p>Digital publishing is (can be . . . should be) about so much more than fidelity to the printed word. <a href="https://twitter.com/hashtag/DigiWriMo?src=hash">#DigiWriMo</a></p>&mdash; HybridPed Publishing (@HybridPub) <a href="https://twitter.com/HybridPub/status/533022559369830400">November 13, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
+
 Hybrid Pedagogy Publishing is part of [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org) and is affiliated with the journal, [Hybrid Pedagogy](http://www.hybridpedagogy.com).
 
 For more information on Hybrid Pedagogy Publishing as this project develops, contact editors [Kris Shaffer](http://twitter.com/krisshaffer) and [Robin S. Wharton](http://twitter.com/rswharton) at [publishing@hybridpedagogy.org](mailto:publishing@hybridpedagogy.org).
