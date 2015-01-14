@@ -4,6 +4,6 @@ img: typehack.jpg
 category: Services
 title: About Hybrid Pedagogy Publishing
 description: |
-  <p class="lead">Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.<br/><br/><a =href="/about/">Read more...</a></p>
+  <p class="lead">Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.<br/><br/><a href="/about/">Read more...</a></p>
 
 ---
