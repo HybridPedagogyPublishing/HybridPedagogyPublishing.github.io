@@ -5,15 +5,22 @@ subTitle: open, social, hackable publishing
 ---
 
 <img src="/img/logo.jpg" style="width:240px; float:right; padding:0 0 0 24px" />
-Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action—works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
+When we ask what books do, we see they fill many functions. Books preserve and transmit knowledge; signal (via their covers, their numbers and placement on our shelves, their heft, etc.) our relationships to texts and their authors; center religious or ideological loyalty, social bonds, class activities and theories; provide space for annotation; project authority; fix knowledge or expression as a temporal, historical artifact; direct attention away from prior drafts, editions, other books; and make complex webs of knowledge into linear streams of prose — just to list a small sampling of examples.
 
-Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
+Books are far more than simple containers for content. And when we realize this, we see how the digital, by giving us new book-ish forms, has the potential to transform our texts and what they do in the world.
+Digital books give us new ways to transmit knowledge to new audiences, new ways to signal (or to avoid signaling), new modes of social interaction, new ways to annotate, new ways to reinforce (or distribute) authority, new ways to preserve historical knowledge — and to enable future “readers” to keep writing that history, new ways to interact with multiple versions of the same text, and the freedom not to distill complex webs of information into simple linear streams.
+
+At Hybrid Pedagogy Publishing, then, we aren't asking how to make digital books that can best preserve the functionality of the printed codex. We want to ask *what can books become* in the digital age?
 
 <br/>
 
 <blockquote class="twitter-tweet" lang="en"><p>Digital publishing is (can be . . . should be) about so much more than fidelity to the printed word. <a href="https://twitter.com/hashtag/DigiWriMo?src=hash">#DigiWriMo</a></p>&mdash; HybridPed Publishing (@HybridPub) <a href="https://twitter.com/HybridPub/status/533022559369830400">November 13, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
+
+As we explore possible answers to this question, Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
+
+Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action—works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
 
 Hybrid Pedagogy Publishing is part of [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org) and is affiliated with the journal, [Hybrid Pedagogy](http://www.hybridpedagogy.com).
 
