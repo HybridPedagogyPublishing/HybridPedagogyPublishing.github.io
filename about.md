@@ -20,11 +20,9 @@ At Hybrid Pedagogy Publishing, then, we aren't asking how to make digital books 
 
 As we explore possible answers to this question, Hybrid Pedagogy Publishing will develop and share long-form, digital-born works like textbooks, "monographs," anthologies, and collaboratively authored and/or multimodal texts that leave themselves open to questions, corrections, and commentary. We will explore alternative commercial models that provide for fair compensation, as well as open distribution and access.
 
-Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action—works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
+Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
 
-Hybrid Pedagogy Publishing is part of [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org) and is affiliated with the journal, [Hybrid Pedagogy](http://www.hybridpedagogy.com).
-
-For more information on Hybrid Pedagogy Publishing as this project develops, contact editors [Kris Shaffer](http://twitter.com/krisshaffer) and [Robin S. Wharton](http://twitter.com/rswharton) at [publishing@hybridpedagogy.org](mailto:publishing@hybridpedagogy.org).
+Hybrid Pedagogy Publishing is part of [Hybrid Pedagogy, Inc.](http://www.hybridpedagogy.org) and is affiliated with the journal, [Hybrid Pedagogy](http://www.hybridpedagogy.com). For more information on Hybrid Pedagogy Publishing as this project develops, contact editors [Kris Shaffer](http://twitter.com/krisshaffer) and [Robin S. Wharton](http://twitter.com/rswharton) at [publishing@hybridpedagogy.org](mailto:publishing@hybridpedagogy.org).
 
 ## Further reading
 
