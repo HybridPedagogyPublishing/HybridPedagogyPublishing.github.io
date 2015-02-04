@@ -45,6 +45,7 @@ Hybrid Pedagogy Publishing is part of [Hybrid Pedagogy, Inc.](http://www.hybridp
 [Hybrid Pedagogy, Digital Humanities, and the Future of Academic Publishing](http://www.hybridpedagogy.com/journal/hybrid-pedagogy-digital-humanities-future-academic-publishing/), by Sean Michael Morris and Jesse Stommel  
 [New Media Conventions and Digital Citation: a #digped Discussion](http://www.hybridpedagogy.com/announcements/new-media-conventions-and-digital-citation-a-digped-discussion/), by Jesse Stommel and Robin Wharton  
 [Open-Source Scholarship](http://www.hybridpedagogy.com/journal/open-source-scholarship/), by Kris Shaffer  
+[Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/)  
 [Pedagogy as Publishing](http://www.hybridpedagogy.com/journal/pedagogy-as-publishing/), by Charlotte Frost  
 [Planned Obsolescence: Publishing, Technology, and the Future of the Academy](http://nyupress.org/books/9780814727881/), by Kathleen Fitzpatrick  
 
