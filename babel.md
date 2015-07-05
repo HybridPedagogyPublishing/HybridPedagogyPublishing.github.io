@@ -18,4 +18,4 @@ We will glimpse a history of the book as a series of trade-offs in which we have
 
 In advance of the session, we are asking attendees to propose one or two texts — broadly construed — as sites of investigation. These texts will be assembled into a ["reading list"](https://docs.google.com/document/d/1ivd0Nsn97N61S2gu3tnSJ1bUTLKVtTbJq4UUShlwjDg/edit?usp=sharing) that will be shared publicly prior to the session, and will provide a focus for our serious game. Our crowd-authored field report, and any other session "artifacts" (e.g., social media backchannel, photos, reflections by session attendees, etc.) will be curated to document our work together at [hybrid.pub/babel](http://www.hybrid.pub/babel).
 
-Image by [Butch Dalisay](https://www.flickr.com/photos/penmanila/7393796664/in/faves-131104016@N08/).
+*Image by [Butch Dalisay](https://www.flickr.com/photos/penmanila/7393796664/in/faves-131104016@N08/).*
