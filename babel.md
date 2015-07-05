@@ -2,6 +2,7 @@
 layout: page
 title: "This is Not a Journal: Publishing as Pedagogy"
 subTitle: Chris Friend, Kris Shaffer, Jesse Stommel, Robin Wharton
+image: ink.jpg
 ---
 
 This session will have no papers. No presentations. It will be a discussion. A town hall. A crowdsourced State of the Union for Academic Publishing. In lieu of traditional proposals, we ask prospective attendees to contribute to [this crowdsourced reading list](https://docs.google.com/document/d/1ivd0Nsn97N61S2gu3tnSJ1bUTLKVtTbJq4UUShlwjDg/edit?usp=sharing) in advance of the session. Anyone and everyone are welcome even if we need to spill out of the room and into the hall.
