@@ -16,7 +16,8 @@ Hybrid Pedagogy builds platforms upon which participants can engage in meta-leve
 The codex is an amazing technology — portable, durable, and surprisingly versatile. Even so, its functional limitations circumscribe what we can do with books. To imagine digital books is not just to re-think what books can be or what forms they might take. To imagine digital books turns reading and writing into pedagogical processes. While we would like to make digital texts that are as durable as currently available technology allows, we also think we should entertain the possibility of making texts that become obsolete as soon as their immediate critical pedagogical purpose is fulfilled — texts that exist in and for the moment.
 
 In this session, participants will play a game called “Martian codicology”: 
-Pretend you’re an interstellar visitor. You understand scholarly publishing as a concept, but you don’t know about the forms that publishing takes on Earth. What would you think about the scholarly publishing industry and its products, about the socio-economic and regulatory structures that have accreted around it, about libraries?
+
+> Pretend you’re an interstellar visitor. You understand scholarly publishing as a concept, but you don’t know about the forms that publishing takes on Earth. What would you think about the scholarly publishing industry and its products, about the socio-economic and regulatory structures that have accreted around it, about libraries?
 
 We will glimpse a history of the book as a series of trade-offs in which we have given up, sometimes knowingly, sometimes unintentionally, the affordances of one mode, medium, or technology in order to realize the potential of another. Participants will collectively author a "field report" in which we re-view publishing, opine on when a book is (not) a book, when a journal is (not) a journal, and consider whether we are creating texts or, rather, user interfaces.
 
